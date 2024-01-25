@@ -24,7 +24,9 @@ The project adheres to the subsequent workflow:
 3. Credit Risk Analysis Report: The project integrates a file named "CreditRiskAnalysisReport.md," which furnishes a concise analysis of the logistic regression model's performance. The report adheres to the structure outlined in the provided report template and encompasses the subsequent segments:
 
 **Analysis Overview:** This section articulates the purpose of the analysis, focusing on the development of a logistic regression model for credit risk classification based on the supplied dataset.
+
 **Results**: A list in bullet points delineates the accuracy score, precision score, and recall score of the logistic regression model. These metrics offer insights into the model's efficacy in predicting loan classifications.
+
 **Summary:** This segment encapsulates a condensed version of the results obtained from the logistic regression model. It provides a rationale for recommending the model for adoption by the lending company. In instances where the model is not recommended, the rationale behind this decision is also expounded upon.
 
 **Repository Structure**
